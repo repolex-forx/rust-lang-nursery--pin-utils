@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "rust-lang-nursery",
+  "repo": "pin-utils",
+  "versions": [
+    {
+      "commit": "cddb4e490757830eff709310b32376420d7f5e93",
+      "parsed_at": "2026-11-22T17:18:43.968495+00:00",
+      "tag": "0.1.0",
+      "filetree": "filetree/cddb4e490757830eff709310b32376420d7f5e93.nq.gz",
+      "blobs": [
+        "blob/93fdeb6fae15d50513c6a548b7af2fef76d9c9e6.nq.gz",
+        "blob/8a1ed2c5af774eef6daad1e74d0667c18c80aa71.nq.gz",
+        "blob/6af90c56be4a8703e8fa2c00d2b6f090b29587c2.nq.gz",
+        "blob/4c0617def7a183a5f0407c1720d887dc17338239.nq.gz",
+        "blob/66ccceda5e2ea70a8eca0de32994828458938129.nq.gz",
+        "blob/f25bd51883eda9913a4ba46f60d4d8cabc3fe33c.nq.gz",
+        "blob/ba0eb0de0bafd458c10d991f0db9ea355241fcd3.nq.gz",
+        "blob/492c26d9a8de5b85af24ab92c99991101967324e.nq.gz",
+        "blob/6198e9823ae683ed35450ba3bd9f4a39a9963ad8.nq.gz",
+        "blob/4308d822046df995d72605f3497d02ae5ae307d8.nq.gz",
+        "blob/4b6758dc123827bf24c99002e8ee90bb32f41d2f.nq.gz",
+        "blob/06e51c428316389d4bc49d2d27b4f1dedd98b6d9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
