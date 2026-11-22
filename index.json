@@ -1,0 +1,11 @@
+{
+  "org": "rust-lang-nursery",
+  "repo": "pin-utils",
+  "versions": [
+    {
+      "commit": "cddb4e490757830eff709310b32376420d7f5e93",
+      "tag": "0.1.0",
+      "parsed_at": "2026-11-22T17:32:23.146149+00:00"
+    }
+  ]
+}
