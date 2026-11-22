@@ -24,6 +24,37 @@
       ],
       "ast": [
         "aggregate/ast/cddb4e490757830eff709310b32376420d7f5e93/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/cddb4e490757830eff709310b32376420d7f5e93.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "core/src/pin.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/macros/mod.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "std/src/lib.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/lib.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        }
       ]
     }
   ],
